@@ -3,7 +3,7 @@ const btn = document.getElementById("openPage");
 
 if (btn) {
     btn.addEventListener("click", function () {
-        window.location.href = "../page/eiu.html";
+        window.location.href = "..eiu/page/eiu.html";
     });
 }
 
