@@ -54,8 +54,17 @@ text-align:center;
 }
 
 .animate__animated{
-font-size: clamp(25px, 4vw, 28px);
+font-size: clamp(18px, 4vw, 28px);
 color:rgb(255, 156, 222);
 font-family: 'Dancing Script', cursive;
 font-weight: 600;
 }
+
+.clo {
+    color: white;
+    font-size: 25px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 600;
+    padding: 5%;
+}
+
